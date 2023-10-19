@@ -8,9 +8,4 @@ This repository provides original data (3D datasets, correlative datasets) and d
 | Correlative analysis example  | Containing OM ans SEM datasets, landmark analysis, and demonstrative images or videos|
 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/Yuhan-ctrl/3D-OM-and-SEM-datasets/blob/main/Elicarb%20graphene%20nanocomposites/Correlate%20analysis%20example%20-%2010kX/view/3Drandomsnapshot_withcolour.tif)">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
 Please include the citation "" when use the datasets provided here. For any enquiries on the datasets, please contact Yuhan (y.li19@imperial.ac.uk).
