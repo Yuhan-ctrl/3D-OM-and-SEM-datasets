@@ -7,5 +7,5 @@ This repository provides original data (3D datasets, correlative datasets) and d
 | SEM images                    | SEM images of nanocomposite sections at different magnifications                     |
 | Correlative analysis example  | Containing OM ans SEM datasets, landmark analysis, and demonstrative images or videos|
 
-
+![image](Elicarb graphene nanocomposites/Correlate analysis example - 10kX/view/3Drandomsnapshot_withcolour.tif)
 Please include the citation "" when use the datasets provided here. For any enquiries on the datasets, please contact Yuhan (y.li19@imperial.ac.uk).
