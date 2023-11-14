@@ -1,0 +1,6 @@
+preprocess
+enchance contrast 0.3%
+substract background rolling ball 50
+Blurred images-unsharp mask
+remove artefacts in section1
+

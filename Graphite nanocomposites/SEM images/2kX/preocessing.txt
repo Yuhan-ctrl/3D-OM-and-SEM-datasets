@@ -1,0 +1,3 @@
+preprocessing:
+enhance contrast 0.3%
+substract background: 50
