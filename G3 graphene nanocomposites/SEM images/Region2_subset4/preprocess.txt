@@ -1,5 +1,0 @@
-preprocess
-enchance contrast 0.3%
-substract background rolling ball 50
-
-
