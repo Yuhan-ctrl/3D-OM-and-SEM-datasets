@@ -13,4 +13,4 @@ For each type of the nanocomposites, a 'File format and instructions.rtf' is ava
 
 ![image](https://github.com/Yuhan-ctrl/3D-OM-and-SEM-datasets/blob/main/example.jpg)
 
-Please include the citation "Serial sectioning SEM for 3D reconstruction and correlative characterisation of graphene nanocomposites. Yuhan Li & Milo Shaffer." when use the datasets provided here. For any enquiries on the datasets, please contact Yuhan (y.li19@imperial.ac.uk).
+Please include the citation "3D reconstruction and correlative imaging of graphene nanocomposites: combining scanning electron and optical microscopies. Yuhan Li & Milo Shaffer." when use the datasets provided here. For any enquiries on the datasets, please contact Yuhan (y.li19@imperial.ac.uk).
